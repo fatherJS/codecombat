@@ -209,7 +209,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     resource_hub: "Baza Wiedzy"
     apcsp: "Zasady AP CS"
     parent: "Rodzice"
-#    browser_recommendation: "For the best experience we recommend using the latest version of Chrome. Download the browser here!"
+#    browser_recommendation: "For the best experience we recommend using the latest version of Chrome. Pobierz przeglądarkę Chrome!"
 
   modal:
     close: "Zamknij"
@@ -754,7 +754,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     click_to_continue: "Kliknij, aby kontynuować"
 
   apis:
-    methods: "Medoty"
+    methods: "Metody"
     events: "Zdarzenia"
 #    handlers: "Handlers"
     properties: "Właściwości"
@@ -979,7 +979,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
   premium_features:
     get_premium: "Kup<br>CodeCombat<br>Premium" # Fit into the banner on the /features page
     master_coder: "Zapisz się już dziś i zostań mistrzem kodu!"
-#    paypal_redirect: "You will be redirected to PayPal to complete the subscription process."
+    paypal_redirect: "Zostaniesz przekierowany do strony PayPal, aby dokończyć zakup subskrypcji."
     subscribe_now: "Zapisz się teraz"
     hero_blurb_1: "Zdobędziesz dostęp do __premiumHeroesCount__ super wypasionych, nowych bohaterów! Ujarzmij nieograniczoną moc Okara Tupistopy, zabójczą precyzję Narii Liść, albo wezwij \"urocze\" szkielety wraz z Nalfarem Cryptorem."
 #    hero_blurb_2: "Premium Warriors unlock stunning martial skills like Warcry, Stomp, and Hurl Enemy. Or, play as a Ranger, using stealth and bows, throwing knives, traps! Try your skill as a true coding Wizard, and unleash a powerful array of Primordial, Necromantic or Elemental magic!"
@@ -988,7 +988,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     pet_blurb_2: "Zbierz wszystkie zwierzaki i poznaj ich unikalne zdolności!"
     pet_caption: "Przygarnij zwierzaka do towarzystwa!"
     game_dev_blurb: "Naucz się pisania gier i stwórz poziomy, którymi później możesz podzielić się ze znajomymi! Umieszczaj jakie chcesz przedmioty, pisz kod, który odpowiedzialny będzie za zachowanie się przeciwników i sprawdź, czy twoim kolegom uda się pokonać twój poziom"
-    game_dev_caption: "Stwórz własne gry i zobacz który z twoich przyjaciół je pokona!"
+    game_dev_caption: "Stwórz własne gry i zobacz, który z twoich przyjaciół je pokona!"
     everything_in_premium: "Wszystko co dostaniesz wraz z CodeCombat Premium:"
     list_gems: "Co miesiąc będziesz dostawać klejnoty na zakup sprzętu"
     list_levels: "Dostęp do __premiumLevelsCount__, a nawet więcej poziomów"
@@ -2735,13 +2735,13 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     rights_clarification: "Gwoli wyjaśnienia, wszystko, co jest dostępne w Edytorze Poziomów w celu tworzenia nowych poziomów, podlega licencji CC, podczas gdy zasoby stworzone w Edytorze Poziomów lub przesłane w toku tworzenia poziomu - nie."
     nutshell_title: "W skrócie"
     nutshell_description: "Wszelkie zasoby, które dostarczamy w Edytorze Poziomów są darmowe w użyciu w jakikolwiek sposób w celu tworzenia poziomów. Jednocześnie, zastrzegamy sobie prawo do ograniczenia rozpowszechniania poziomów (stworzonych przez codecombat.com) jako takich, aby mogła być za nie w przyszłości pobierana opłata, jeśli dojdzie do takiej konieczności."
-#    nutshell_see_also: "See also:"
+    nutshell_see_also: "Zobacz także:"
     canonical: "Angielska wersja tego dokumentu jest ostateczną, kanoniczną wersją. Jeśli zachodzą jakieś rozbieżności pomiędzy tłumaczeniami, dokument anglojęzyczny ma pierwszeństwo."
     third_party_title: "Oprogramowanie osób trzecich"
     third_party_description: "CodeCombat używa (między innymi) poniższych programów osób trzecich:"
 #    cookies_message: "CodeCombat uses a few essential and non-essential cookies."
 #    cookies_deny: "Decline non-essential cookies"
-#    cookies_allow: "Allow cookies"
+    cookies_allow: "Zaakceptuj ciasteczka"
 
   ladder_prizes:
     title: "Nagrody w turnieju" # This section was for an old tournament and doesn't need new translations now.
